@@ -3,7 +3,7 @@
 
 <p align="left">Some techniques I enjoy working with:
   <a href="https://img.shields.io/badge/flutter"></a>
-   <a href="[https://img.shields.io/badge/flutter](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+   <a href="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
 </p>
 
 
